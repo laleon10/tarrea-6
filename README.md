@@ -1,6 +1,17 @@
 # tarrea-6
 cap 11 - 12
+
+# Objetivo general
+
+Interpretar y resolver los problemas presentados en los capítulos 11 y 12 de "Principios de circuitos eléctricos" para encontrar voltajes y corrientes en circuitos analíticos utilizando los conocimientos aprendidos en clase y el desarrollo de ecuaciones simultáneas en el libro. Explorar circuitos de forma ágil nos da la capacidad de identificar funciones equivalentes e intentar resolver cualquier tipo de circuito utilizando el análisis y el razonamiento adecuados.
+
+# Objetivos específicos
+
+Identificar de una manera concreta las incognitas, resolver los circuitos mediante los los metodos explicados en los precentes capitulos sobre los voltajes correspondientes.
+
 # RESOLUCIÓN DE EJERCICIOS DEL PROBLEMA
+
+# Marco Teorico
 
 * Ejercicios del Capítulo 11
 
@@ -291,3 +302,13 @@ El capacitor conectado paralelamente permite que el voltaje de fluctuación perm
 53 En un circuito de capacitor conmutado, el capacitor tiene un valor de 2200 pF y se conmuta con una forma de onda cuyo periodo es de 10 ms. Determine el valor del resistor que se emula.
 
 [![28.png](https://i.postimg.cc/qB155k8c/28.png)](https://postimg.cc/rztjd2Zz)
+
+# CONCLUSIONES
+
+En este capítulo, estudiamos las señales eléctricas que cambian con el tiempo y tratamos de expandir nuestro conocimiento de estos temas para aprender a usar un osciloscopio.
+
+Aprendimos qué son los capacitores y sus propiedades, funciones y cálculos necesarios para adaptarlos a nuevos circuitos para seguir practicando.
+
+# BIBLIOGRAFÍA:
+
+Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson Prentice Hall.
