@@ -8,10 +8,13 @@ Interpretar y resolver los problemas presentados en los capítulos 11 y 12 de "P
 # Objetivos específicos
 
 Identificar de una manera concreta las incognitas, resolver los circuitos mediante los los metodos explicados en los precentes capitulos sobre los voltajes correspondientes.
+ 
+# Marco Teorico
+
+![plano ](https://user-images.githubusercontent.com/116819463/212793292-25ea6183-1352-40ed-9ae3-d762334763c9.png)
+
 
 # RESOLUCIÓN DE EJERCICIOS DEL PROBLEMA
-
-# Marco Teorico
 
 * Ejercicios del Capítulo 11
 
